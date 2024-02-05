@@ -1,6 +1,6 @@
 # Fun-with-Tailwind-CSS
 ---
-Started following the serise of learning Tailwind CSS from Hitesh Chaudhari's 'Chai aur Code' youtube channel.
+Started following the serise of **Fun-with-Tailwind-CSS** by **Hitesh Chaudhari** sir on his **Chai aur Code** youtube channel.
 
 ## Day 1
 
